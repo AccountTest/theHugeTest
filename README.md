@@ -1,1 +1,0 @@
-tutu<b>toto</b>
